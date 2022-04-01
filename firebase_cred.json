@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "playerwatch2",
+    "private_key_id": "b860d8559e7b1fb3c52e48055c57a067ef9c11a4",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDcCzwDzYd+WTjq\nHix+3Jcf7L5v36QGmyl4q1/bwbIhYgE6HcDTzvXjtCYxnzIowMh964Yin85PS0Io\nnVq9HaAtAmOsqfXYZTGQ6R3hHx6rD0jdMDt/40TiAkiMnLDeAupNBBRWh6vMV3rc\n9nh0OFCjQy7kKVTksnSeWTead0IO63RTfXrDIMQ3wl0TS2B1NpsOhz684weoKBKR\nhDrWJ+4gKZnXdssITKyp6b5foKJDeS87G/psEauV97ohOlrAJG6Zp9ezFEr/AkPm\nuDB677srOgQYJi9wn4BiPZfvsxxUBK8/AZ66ei2ORqIw9Ytqe0fLXBdyqlbn70Aq\nu9L438c5AgMBAAECggEAEBks+to+ihqHn26LCCel/B/wjsloe/3outCkOApOY0LY\nSXguc1CLjMJ784VswK6EpzG5ToSCg3/uByqmniSyDe5EJzhdVBzofhblU2MDdgsC\n5FZzA+2Moeb+MnYEOo8xX7u8q9f2fwH8wHhdDPj8bUqs/jmdNwjB9L5yOErL+mtS\nCmN65OjCaNg1N6Eb/12iPwyIJAS2T9Ur+cA3XmIMMDob66yLQdLqu2YB0WhazYst\nDcsbfOcIdgBrj5WGQppMxIjmkFVbs8hg+Ovs3blbMGpLOrKDgmldRWjcpE15JPYj\nUlqFkDxjQUm6OvBNB3gUpXlq8cm19AkRNa3zIyviQQKBgQDzFyozZ08dAKq1GJzs\nJpnIxpTKcXpFwBUoGTuJfvwxhGgz4KOXA7FvyELVD4WEYtfbm/9Z8Hum5kgTO1g5\nTiq4HAMHgfrEd1+m1cefZpdZVWmmEt+t678/P156A+ooTLYXzia2iMvlPFEhC4Si\naYCUno3aenrXu1ho+2xifKagIwKBgQDnur/Ge81GmHu18PJRine3Z+fRqq/3Muwg\noccRGE4yqahCoTrFVUqMtFXnNV1iMJ0PFbTDXY0wabr1feM+DpBijG74a2idrUpe\nWW9C0xZpSWs5luihbx3Hm9oqmhaLZC1m3OUFPBzeOnwmoL/u2oxri7v9uUoiv0sZ\nUPT79UyC8wKBgQCJXPiqzWDmKZ9M8BiUVQenbZdcgh0u1ujdnMyI2KnXrVNYpUKr\nrhmQ6d/iF4BCG7yQSylTAFJPMGdf/rPOxf3bxXBsyKUUacQyOTExQL6ba2lkv9uH\nouSR79QKLLYfiaGH+CTmFozo/1l0y9ZqFCXlVWchIv7Rcvr1b8WCLZ/WcwKBgQCV\nSK27RI5d6GXqNCsndLjjIsEpRXjPG7Ma4p3H2Yym/r0zD4M5FVVNh++/X5WlaAQG\nb8lgAqiug6658DuxAtjpY+cpiqh+y+CZH6yZtDs/4Nh+5UVAmsDokvLddx8G9aZ6\nGdxAnxVJ5QuOJwj+6zSDJCYbsn6cG/hZetoYZ1K/GQKBgEA/jXb+FarOzkfg6/Bs\nr7RUiiDZyO4jEjKo6PHaEEhN9FgYWd6XZuH3075LDA5p6GyednPuciWYOL0dWui0\nlcn4uFYcNqZNCeY31KTOzNSPaQ/qCV4xyoWedQH4PzwBxtPACBYtnwC4GxJdjX4i\ny5FXRzJyrfs6zndQ1gDYUBUu\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-rx0it@playerwatch2.iam.gserviceaccount.com",
+    "client_id": "103326721118393828169",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rx0it%40playerwatch2.iam.gserviceaccount.com"
+}

@@ -1,0 +1,6 @@
+export { AddressInput, Address } from './User.Address'
+export { PersonalInput, Personal } from './User.Personal'
+export { SmallChatDto } from './SmallChatDto'
+export { SportDto } from './SportInput'
+export { FanDto } from './FanDto'
+export { ConsumableDto } from './ConsumableDto'
